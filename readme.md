@@ -1,6 +1,6 @@
 # Path Planning for GalaXea A1 Robotic Arm Based on RRT Algorithm
 
-## After completing this project, you will:
+## After completing this tutorial, you will:
 
 - Understand how the RRT path planning algorithm is implemented on a 6DOF robotic arm.
 - Learn about the shortcomings of the original RRT algorithm and how to improve it.
